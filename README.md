@@ -1,3 +1,3 @@
 # text-comparator
 
-As requested by u/gimmckeS, a txt file comparison
+As requested by u/gimmckeS, a text filter using txt files
